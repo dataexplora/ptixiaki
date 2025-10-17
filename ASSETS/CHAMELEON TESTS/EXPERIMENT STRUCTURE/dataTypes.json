@@ -1,0 +1,38 @@
+{
+  "melodiesForExperiments":[
+    {
+      "metadata": {
+      "title":"ΓΙΑΤΙ ΦΟΥΜΑΡΩ ΚΟΚΑΪΝΗ",
+      "genre": "Ρεμπέτικο",
+      "harmonic idiom": "modal(χιτζαζ-σαμπάχ)",
+      "key": "D"
+    
+      },
+      "CASES": [
+        {
+          "allNotesImportant": true,
+          "1Style":[
+            {
+              "style": "modalChorales",
+              "Mode": "[0 1 3 5 7 8 10]",
+              "ChordFamilies": false,
+              "VL": "NoVL",
+              "result": "filepath.xml",
+              "prettified": true
+            }
+            
+          ],
+          "Blend":[
+            
+          ]
+          
+        },
+        {
+          "allNotesImportant": false
+        }
+      ]
+      
+      
+    }  
+  ]
+}
