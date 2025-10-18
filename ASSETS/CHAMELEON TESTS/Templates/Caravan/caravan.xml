@@ -7,7 +7,7 @@
     <encoding>
       <software>Finale 2014 for Windows</software>
       <software>Dolet Light for Finale 2014</software>
-      <encoding-date>2025-10-16</encoding-date>
+      <encoding-date>2025-10-18</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -178,7 +178,7 @@ chords</display-text>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="240"/>
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -671,7 +671,7 @@ chords</display-text>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="240"/>
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -1103,7 +1103,7 @@ chords</display-text>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="240"/>
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -1387,7 +1387,7 @@ chords</display-text>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="240"/>
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -1573,7 +1573,7 @@ chords</display-text>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="240"/>
       <note default-x="154">
         <pitch>
           <step>A</step>
@@ -1846,7 +1846,7 @@ chords</display-text>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="240"/>
       <note default-x="154">
         <pitch>
           <step>C</step>
